@@ -1,0 +1,21 @@
+Code,Name,Quaternion_a,Quaternion_b,Quaternion_c,Quaternion_d
+A,Alanine,0.125,0.250,0.125,0.250
+R,Arginine,0.375,0.375,0.375,0.375
+N,Asparagine,0.250,0.125,0.375,0.125
+D,Aspartic acid,0.375,0.125,0.250,0.125
+C,Cysteine,0.250,0.250,0.125,0.375
+Q,Glutamine,0.500,0.375,0.250,0.375
+E,Glutamic acid,0.500,0.125,0.375,0.125
+G,Glycine,0.125,0.125,0.125,0.125
+H,Histidine,0.375,0.250,0.500,0.250
+I,Isoleucine,0.625,0.375,0.125,0.375
+L,Leucine,0.625,0.250,0.250,0.250
+K,Lysine,0.625,0.500,0.375,0.500
+M,Methionine,0.500,0.250,0.125,0.250
+F,Phenylalanine,0.750,0.375,0.125,0.375
+P,Proline,0.375,0.125,0.250,0.125
+S,Serine,0.250,0.250,0.250,0.250
+T,Threonine,0.375,0.375,0.125,0.375
+W,Tryptophan,0.875,0.500,0.250,0.500
+Y,Tyrosine,0.750,0.250,0.375,0.250
+V,Valine,0.500,0.500,0.125,0.500

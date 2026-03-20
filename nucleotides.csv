@@ -1,0 +1,6 @@
+Nucleotide,Quaternion_a,Quaternion_b,Quaternion_c,Quaternion_d,Angle_Index
+A,1,0,0,0,1
+C,0,1,0,0,2
+G,0,0,1,0,3
+U,0,0,0,1,4
+T,0,0,0,1,4
