@@ -19,19 +19,19 @@ The framework is built upon the following mathematical results:
 | File | Description |
 |------|-------------|
 | `constants.py` | Physical and mathematical constants |
-| `01_quaternion_algebra.py` | Quaternion algebra implementation |
-| `02_conway_knot_analysis.py` | Conway knot invariants and Jones polynomial |
-| `03_kras_g12d_simulation.py` | KRAS G12D Nanopor-Tap simulation |
-| `04_braf_v600e_simulation.py` | BRAF V600E Nanopor-Tap simulation |
-| `05_nras_hras_simulation.py` | NRAS and HRAS mutation analysis |
-| `06_stress_test_amyloid.py` | Amyloid-$\beta$ misfolding analysis |
-| `07_peptide_synthesis_validator.py` | Synthesis protocol validation |
-| `08_genetic_code_quaternion.py` | Genetic code as quaternion products |
-| `09_human_genome_analysis.py` | Human genome quaternion analysis |
-| `10_dna_replication_fidelity.py` | DNA replication fidelity calculation |
-| `11_de_novo_protein_design.py` | De novo protein design optimization |
-| `12_drug_interaction_model.py` | Drug interference modeling |
-| `13_unified_framework.py` | Complete integrated framework |
+| `quaternion_algebra.py` | Quaternion algebra implementation |
+| `conway_knot_analysis.py` | Conway knot invariants and Jones polynomial |
+| `kras_g12d_simulation.py` | KRAS G12D Nanopor-Tap simulation |
+| `braf_v600e_simulation.py` | BRAF V600E Nanopor-Tap simulation |
+| `nras_hras_simulation.py` | NRAS and HRAS mutation analysis |
+| `stress_test_amyloid.py` | Amyloid-$\beta$ misfolding analysis |
+| `peptide_synthesis_validator.py` | Synthesis protocol validation |
+| `genetic_code_quaternion.py` | Genetic code as quaternion products |
+| `human_genome_analysis.py` | Human genome quaternion analysis |
+| `dna_replication_fidelity.py` | DNA replication fidelity calculation |
+| `de_novo_protein_design.py` | De novo protein design optimization |
+| `drug_interaction_model.py` | Drug interference modeling |
+| `unified_framework.py` | Complete integrated framework |
 
 ## Installation
 
