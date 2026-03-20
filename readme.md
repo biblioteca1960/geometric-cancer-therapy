@@ -31,7 +31,7 @@ The framework is built upon the following mathematical results:
 | `dna_replication_fidelity.py` | DNA replication fidelity calculation |
 | `de_novo_protein_design.py` | De novo protein design optimization |
 | `drug_interaction_model.py` | Drug interference modeling |
-| `unified_framework.py` | Complete integrated framework |
+| `13_unified_framework.py` | Complete integrated framework |
 
 ## Installation
 
