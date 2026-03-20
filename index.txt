@@ -1,0 +1,33 @@
+geometric-cancer-therapy/
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── constants.py
+├── 01_quaternion_algebra.py
+├── 02_conway_knot_analysis.py
+├── 03_kras_g12d_simulation.py
+├── 04_braf_v600e_simulation.py
+├── 05_nras_hras_simulation.py
+├── 06_stress_test_amyloid.py
+├── 07_peptide_synthesis_validator.py
+├── 08_genetic_code_quaternion.py
+├── 09_human_genome_analysis.py
+├── 10_dna_replication_fidelity.py
+├── 11_de_novo_protein_design.py
+├── 12_drug_interaction_model.py
+├── 13_unified_framework.py
+├── data/
+│   ├── amino_acids.csv
+│   ├── nucleotides.csv
+│   ├── elements_quaternions.csv
+│   └── chromosomes_lengths.csv
+├── tests/
+│   ├── test_quaternion_algebra.py
+│   ├── test_knot_invariants.py
+│   └── test_peptide_folding.py
+└── notebooks/
+    ├── 01_visualization.ipynb
+    └── 02_validation.ipynb
+
+cd C:/Users/ARQUIMODAL/geometric-cancer-therapy
+python 13_unified_framework.py
